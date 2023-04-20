@@ -1,0 +1,22 @@
+__init__.py 
+__main__/external/__init__.py 
+__main__/external/rules_pkg/__init__.py 
+__main__/external/rules_pkg/pkg/__init__.py 
+__main__/external/rules_pkg/pkg/private/__init__.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/__init__.py
+__main__/external/rules_pkg/pkg/private/build_info.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/build_info.py
+__main__/external/rules_pkg/pkg/private/helpers.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/helpers.py
+__main__/external/rules_pkg/pkg/private/manifest.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/manifest.py
+__main__/external/rules_pkg/pkg/private/zip/__init__.py 
+__main__/external/rules_pkg/pkg/private/zip/build_zip.exe C:/users/shovik/_bazel_shovik/757f65ux/execroot/__main__/bazel-out/x64_windows-opt-exec-2B5CBBC6/bin/external/rules_pkg/pkg/private/zip/build_zip.exe
+__main__/external/rules_pkg/pkg/private/zip/build_zip.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/zip/build_zip.py
+__main__/external/rules_pkg/pkg/private/zip/build_zip.zip C:/users/shovik/_bazel_shovik/757f65ux/execroot/__main__/bazel-out/x64_windows-opt-exec-2B5CBBC6/bin/external/rules_pkg/pkg/private/zip/build_zip.zip
+rules_pkg/__init__.py 
+rules_pkg/pkg/__init__.py 
+rules_pkg/pkg/private/__init__.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/__init__.py
+rules_pkg/pkg/private/build_info.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/build_info.py
+rules_pkg/pkg/private/helpers.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/helpers.py
+rules_pkg/pkg/private/manifest.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/manifest.py
+rules_pkg/pkg/private/zip/__init__.py 
+rules_pkg/pkg/private/zip/build_zip.exe C:/users/shovik/_bazel_shovik/757f65ux/execroot/__main__/bazel-out/x64_windows-opt-exec-2B5CBBC6/bin/external/rules_pkg/pkg/private/zip/build_zip.exe
+rules_pkg/pkg/private/zip/build_zip.py C:/users/shovik/_bazel_shovik/757f65ux/external/rules_pkg/pkg/private/zip/build_zip.py
+rules_pkg/pkg/private/zip/build_zip.zip C:/users/shovik/_bazel_shovik/757f65ux/execroot/__main__/bazel-out/x64_windows-opt-exec-2B5CBBC6/bin/external/rules_pkg/pkg/private/zip/build_zip.zip

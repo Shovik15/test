@@ -1,0 +1,4 @@
+__main__.py=bazel-out/x64_windows-fastbuild/bin/mytool.temp
+__init__.py=
+runfiles/__main__/__init__.py=
+runfiles/__main__/myTool.py=myTool.py

@@ -1,0 +1,5 @@
+[
+{"dest":"myTool.py","group":null,"mode":"","origin":"@//:mytool","src":"myTool.py","type":"file","user":null},
+{"dest":"mytool.exe","group":null,"mode":"0755","origin":"@//:mytool","src":"bazel-out/x64_windows-fastbuild/bin/mytool.exe","type":"file","user":null},
+{"dest":"mytool.zip","group":null,"mode":"","origin":"@//:mytool","src":"bazel-out/x64_windows-fastbuild/bin/mytool.zip","type":"file","user":null}
+]

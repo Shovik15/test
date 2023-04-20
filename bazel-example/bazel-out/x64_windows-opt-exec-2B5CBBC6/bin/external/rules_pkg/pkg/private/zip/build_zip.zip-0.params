@@ -1,0 +1,12 @@
+__main__.py=bazel-out/x64_windows-opt-exec-2B5CBBC6/bin/external/rules_pkg/pkg/private/zip/build_zip.temp
+__init__.py=
+runfiles/__main__/__init__.py=
+runfiles/rules_pkg/pkg/__init__.py=
+runfiles/rules_pkg/pkg/private/zip/__init__.py=
+runfiles/rules_pkg/__init__.py=
+runfiles/__init__.py=
+runfiles/rules_pkg/pkg/private/zip/build_zip.py=external/rules_pkg/pkg/private/zip/build_zip.py
+runfiles/rules_pkg/pkg/private/build_info.py=external/rules_pkg/pkg/private/build_info.py
+runfiles/rules_pkg/pkg/private/__init__.py=external/rules_pkg/pkg/private/__init__.py
+runfiles/rules_pkg/pkg/private/helpers.py=external/rules_pkg/pkg/private/helpers.py
+runfiles/rules_pkg/pkg/private/manifest.py=external/rules_pkg/pkg/private/manifest.py
